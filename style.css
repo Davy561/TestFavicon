@@ -1,0 +1,28 @@
+.cor{
+    color: rgb(140, 199, 238);
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: serif,Arial, Helvetica, sans-serif;
+    margin:0;
+    font-style: oblique;
+    font-weight:normal;
+    text-transform:uppercase;/*uppercase - lowercase - capitalize*/
+    text-decoration: underline;/*underline - overline - line-through - blink - none */
+}
+
+#Text{
+    margin:50px;
+    padding: 10px;
+    color: blue;
+    font-family: tahoma;
+    font-style:italic; /*italic - oblique- normal*/
+    line-height:28px;
+    font-size:18px;
+    font-weight: 800; /*bold - bolder - (numeral)*/
+}
+
+body{
+    border: 5px solid rgb(95, 152, 216)
+}
